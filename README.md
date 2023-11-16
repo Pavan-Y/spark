@@ -12,7 +12,7 @@ Pls ensure you've these ready on your system before going further...
 
 ### 1: Download Apache Spark
 
-1. Go to the [Apache Spark downloads page](https://spark.apache.org/downloads.html){:target="_blank"}.
+1. Go to the [Apache Spark downloads page](https://spark.apache.org/downloads.html)`{:target="_blank"}`.
 2. Select the latest Spark release(select 3.3.3 if available).
 3. Choose a package type (preferably "Pre-built for Apache Hadoop")(select .Pre-built for Apache Hadoop2.7 if available)
 4. Download the package in ZIP(tgz) format
