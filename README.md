@@ -12,7 +12,7 @@ Pls ensure you've these ready on your system before going further...
 
 ### 1: Download Apache Spark
 
-1. Go to the [Apache Spark downloads page](https://spark.apache.org/downloads.html).
+1. Go to the [Apache Spark downloads page](https://spark.apache.org/downloads.html){:target="_blank"}.
 2. Select the latest Spark release(select 3.3.3 if available).
 3. Choose a package type (preferably "Pre-built for Apache Hadoop")(select .Pre-built for Apache Hadoop2.7 if available)
 4. Download the package in ZIP(tgz) format
@@ -37,7 +37,7 @@ Pls ensure you've these ready on your system before going further...
 2. Run the Spark shell to verify the installation:
     - For Scala: `spark-shell`
     - For PySpark: `pyspark`
-    - Spark context will be created for both cases, You can check the spark UI by clicking [here](http://localhost:4040)
+    - Spark context will be created for both cases, You can check the spark UI by clicking [here](http://localhost:4040){:target="_blank"}.
 
 If everything is set up correctly, the Spark shell should start without errors.
 
