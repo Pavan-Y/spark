@@ -37,7 +37,7 @@ Pls ensure you've these ready on your system before going further...
 2. Run the Spark shell to verify the installation:
     - For Scala: `spark-shell`
     - For PySpark: `pyspark`
-    - Spark context will be created for both cases, You can check the spark UI by clicking [here](localhost:4040)
+    - Spark context will be created for both cases, You can check the spark UI by clicking [here](http://localhost:4040)
 
 If everything is set up correctly, the Spark shell should start without errors.
 
